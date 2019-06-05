@@ -16,6 +16,8 @@
 - Huhn
 - Wuerstel
 - Saucen
+- Eis (fur Kinder)
+- Pita Brot
 - Chips und sonstiges Knabberzeugs
 
 ### Getrenke
@@ -30,6 +32,11 @@
 - Alugrilltasse
 - Gemuesegrillkorb
 - Alufolie
+- Grillkohle
+- Grillanzünder
+- Trinkbecher
+- Papierteller
+- Küchenrolle
 
 ### Musik
 - Bluetooth Spekaer
