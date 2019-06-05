@@ -33,7 +33,7 @@
 - Gemuesegrillkorb
 - Alufolie
 - Grillkohle
-- Grillanzünder
+- Grillanzuender
 - Trinkbecher
 - Papierteller
 - Kuechenrolle
