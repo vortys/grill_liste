@@ -18,6 +18,7 @@
 - Saucen
 - Eis (fur Kinder)
 - Pita Brot
+- Knoblauch Brot / Kraeuterbutter Brot
 - Chips und sonstiges Knabberzeugs
 
 ### Getraenke
