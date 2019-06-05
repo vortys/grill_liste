@@ -48,3 +48,4 @@
 ### Sonstiges
 - Akkupack
 - Kuehlbox 
+- Muellsaecke
