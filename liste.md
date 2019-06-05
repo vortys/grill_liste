@@ -20,7 +20,7 @@
 - Pita Brot
 - Chips und sonstiges Knabberzeugs
 
-### Getrenke
+### Getraenke
 - Bier
 - Mineralwasser still/prickelnd
 - Cola
@@ -36,7 +36,7 @@
 - Grillanzünder
 - Trinkbecher
 - Papierteller
-- Küchenrolle
+- Kuechenrolle
 
 ### Musik
 - Bluetooth Spekaer
