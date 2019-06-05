@@ -29,6 +29,7 @@
 
 ### Grillutensilien
 - Grillbesteck
+- Messer
 - Alugrilltasse
 - Gemuesegrillkorb
 - Alufolie
