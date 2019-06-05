@@ -43,7 +43,7 @@
 
 ### Musik
 - Bluetooth Spekaer
-- Spotifyquelle
+- Spotifyquelle -> altes handy
 
 ### Sonstiges
 - Akkupack
