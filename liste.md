@@ -3,7 +3,7 @@
 - Mais
 - Halumi
 - Kartoffel / Suesskartoffel
-- Champignons
+- Champingons
 - Zwiebel 
 - (Bananen)
 - Paprika
@@ -20,6 +20,10 @@
 - Pita Brot
 - Knoblauch Brot / Kraeuterbutter Brot
 - Chips und sonstiges Knabberzeugs
+- Cocktailtomaten
+- Mini BernerwuerstEl
+- Bernerwuerstelnnnn
+- Kaeskraimer, minikaeskrainerminikaeskrainer
 
 ### Getraenke
 - Bier
@@ -49,3 +53,4 @@
 - Akkupack
 - Kuehlbox 
 - Muellsaecke
+- Plane / Seil
