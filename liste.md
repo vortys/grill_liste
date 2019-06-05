@@ -46,4 +46,5 @@
 - Spotifyquelle
 
 ### Sonstiges
+- Akkupack
 - Kuehlbox 
