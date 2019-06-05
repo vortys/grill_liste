@@ -25,6 +25,7 @@
 - Bernerwuerstelnnnn
 - Kaesekrainer, minikaeskrainerminikaeskrainer
 - kaesegriller
+- Shrimpsspiesse
 
 ### Getraenke
 - Bier
