@@ -23,7 +23,8 @@
 - Cocktailtomaten
 - Mini BernerwuerstEl
 - Bernerwuerstelnnnn
-- Kaeskraimer, minikaeskrainerminikaeskrainer
+- Kaesekrainer, minikaeskrainerminikaeskrainer
+- kaesegriller
 
 ### Getraenke
 - Bier
