@@ -26,11 +26,14 @@
 - Kaesekrainer, minikaeskrainerminikaeskrainer
 - kaesegriller
 - Shrimpsspiesse
+- Salz / Pfeffer / Grillgewuerze
+- Olivenoel
 
 ### Getraenke
 - Bier
 - Mineralwasser still/prickelnd
 - Cola
+- Cola zero
 - Orangensaft
 - sonstige Saefte
 
