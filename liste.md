@@ -6,9 +6,9 @@
 - Champingons
 - Zwiebel 
 - (Bananen)
-- Paprika
-- Zuchini 
-- Melanzani 
+- (Paprika)
+- (Zuchini) 
+- (Melanzani)
 - Ripeye Steak 
 - Karreesteak
 - Filetsteak
@@ -26,7 +26,7 @@
 - Kaesekrainer, minikaeskrainerminikaeskrainer
 - kaesegriller
 - Shrimpsspiesse
-- Salz / Pfeffer / Grillgewuerze
+- normales Salz / Pfeffer / Grillgewuerze
 - Olivenoel
 
 ### Getraenke
