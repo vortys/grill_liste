@@ -3,8 +3,8 @@
 - Mais
 - Halumi
 - Kartoffel / Suesskartoffel
-- Champingons
-- Zwiebel 
+- Champingons, wenns gibt
+- Zwiebel, wenige
 - (Bananen)
 - (Paprika)
 - (Zuchini) 
@@ -12,25 +12,21 @@
 - Ripeye Steak 
 - Karreesteak
 - Filetsteak
-- Lachs
 - Huhn
 - Wuerstel
-- Saucen
-- Eis (fur Kinder)
+- Grill Saucen
+- Senf
+- Ketchup
 - Pita Brot
 - Knoblauch Brot / Kraeuterbutter Brot
 - Chips und sonstiges Knabberzeugs
-- Cocktailtomaten
-- Mini BernerwuerstEl
-- Bernerwuerstelnnnn
-- Kaesekrainer, minikaeskrainerminikaeskrainer
-- kaesegriller
-- Shrimpsspiesse
-- normales Salz / Pfeffer / Grillgewuerze
+- Grillwürste (Helmut)
+- normales Salz / Pfeffer (Tibor)
+- Grillgewuerze
 - Olivenoel
 
 ### Getraenke
-- Bier
+- Bier (Dominik) 
 - Mineralwasser still/prickelnd
 - Cola
 - Cola zero
@@ -38,24 +34,25 @@
 - sonstige Saefte
 
 ### Grillutensilien
-- Grillbesteck
-- Messer
-- Schneidbrett
-- Alugrilltasse
-- Gemuesegrillkorb
-- Alufolie
+- Grillbesteck (Tibor/Dominik)
+- Messer (Dominik/Tibor)
+- Schneidbrett (Dominik/Tibor)
+- Alugrilltasse (Dominik)
+- Alufolie 
 - Grillkohle
 - Grillanzuender
-- Trinkbecher
-- Papierteller
-- Kuechenrolle
+- Trinkbecher (Dominik)
+- Papierteller (Dominik)
+- Plastikbesteck (Dominik)
+- Kuechenrolle 
 
 ### Musik
-- Bluetooth Spekaer
+- Bluetooth Spekaer (Dominik)
 - Spotifyquelle -> altes handy
 
 ### Sonstiges
-- Akkupack
-- Kuehlbox 
+- Akkupack (Tibor)
+- Kuehlbox (Flo, vorher Bescheid sagen)
 - Muellsaecke
-- Plane / Seil
+- Plane / Seil (Tibor)
+- Netzeinkaufstasche (Dominik)
