@@ -24,7 +24,7 @@
 - normales Salz (Tibor)
 - Pfeffer
 - Grillgewuerze
-- Olivenoel
+- Olivenoel (Tibor)
 
 ### Getraenke
 - Bier (Dominik) 
