@@ -21,7 +21,8 @@
 - Knoblauch Brot / Kraeuterbutter Brot
 - Chips und sonstiges Knabberzeugs
 - Grillwürste (Helmut)
-- normales Salz / Pfeffer (Tibor)
+- normales Salz (Tibor)
+- Pfeffer
 - Grillgewuerze
 - Olivenoel
 
