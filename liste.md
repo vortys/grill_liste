@@ -37,7 +37,7 @@
 - Grillbesteck (Tibor/Dominik)
 - Messer (Dominik/Tibor)
 - Schneidbrett (Dominik/Tibor)
-- Alugrilltasse (Dominik)
+- Alugrilltasse
 - Alufolie 
 - Grillkohle
 - Grillanzuender
