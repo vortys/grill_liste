@@ -35,10 +35,10 @@
 - sonstige Saefte
 
 ### Grillutensilien
-- Grillbesteck (Tibor/Dominik)
-- Messer (Dominik/Tibor)
-- Schneidbrett (Dominik/Tibor)
-- Alugrilltasse
+- Grillbesteck (Tibor 1x)
+- Messer (Tibor 1x)
+- Schneidbrett (Tibor 1x)
+- Alugrilltasse (Tibor 6 Stück, wenn mehr nötig bitte kaufen)
 - Alufolie 
 - Grillkohle
 - Grillanzuender
