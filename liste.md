@@ -21,13 +21,13 @@
 - Knoblauch Brot / Kraeuterbutter Brot
 - Chips und sonstiges Knabberzeugs
 - Grillwürste (Helmut)
-- normales Salz (Tibor)
+- normales Salz 
 - Pfeffer
 - Grillgewuerze
-- Olivenoel (Tibor)
+- Olivenoel 
 
 ### Getraenke
-- Bier (Dominik) 
+- Bier 
 - Mineralwasser still/prickelnd
 - Cola
 - Cola zero
@@ -35,25 +35,25 @@
 - sonstige Saefte
 
 ### Grillutensilien
-- Grillbesteck (Tibor 1x)
-- Messer (Tibor 1x)
-- Schneidbrett (Tibor 1x)
-- Alugrilltasse (Tibor 6 Stück, wenn mehr nötig bitte kaufen)
+- Grillbesteck 
+- Messer 
+- Schneidbrett 
+- Alugrilltasse 
 - Alufolie 
 - Grillkohle
 - Grillanzuender
-- Trinkbecher (Dominik)
-- Papierteller (Dominik)
-- Plastikbesteck (Dominik)
+- Trinkbecher
+- Papierteller 
+- Plastikbesteck 
 - Kuechenrolle 
 
 ### Musik
-- Bluetooth Spekaer (Dominik)
+- Bluetooth Spekaer 
 - Spotifyquelle -> altes handy
 
 ### Sonstiges
-- Akkupack (Tibor)
-- Kuehlbox (Flo, vorher Bescheid sagen)
+- Akkupack
+- Kuehlbox 
 - Muellsaecke
-- Plane / Seil (Tibor)
-- Netzeinkaufstasche (Dominik)
+- Plane / Seil 
+- Netzeinkaufstasche
