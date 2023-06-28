@@ -55,5 +55,4 @@
 - Akkupack
 - Kuehlbox 
 - Muellsaecke
-- Plane / Seil 
-- Netzeinkaufstasche
+- Verbandskasten
