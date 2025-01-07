@@ -35,6 +35,7 @@
 - sonstige Saefte
 
 ### Grillutensilien
+- Gelsenschreck Akku betrieben
 - Grillbesteck 
 - Messer 
 - Schneidbrett 
