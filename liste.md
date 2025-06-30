@@ -35,6 +35,8 @@
 - sonstige Saefte
 
 ### Grillutensilien
+- Crashed Ice
+- Grillhandschuhe
 - Gelsenschreck Akku betrieben
 - Grillbesteck 
 - Messer 
