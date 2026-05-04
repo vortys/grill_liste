@@ -27,7 +27,8 @@
 - Olivenoel 
 
 ### Getraenke
-- Bier 
+- Bier
+- Eis
 - Mineralwasser still/prickelnd
 - Cola
 - Cola zero
